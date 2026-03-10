@@ -8,7 +8,7 @@
 
 | Konu (Topic) | Zorluk | Çözüm Linki | Anahtar Kavramlar |
 | :--- | :---: | :--- | :--- |
-| **Linked List** | 🟢 Easy | [1290. Convert Binary...](./Linked_List/Easy/1290_Convert_Binary_Linked_List.py)
+| **Linked List** | 🟢 Easy | [1290. Convert Binary...](./Linked_List/Easy/1290_Convert_Binary_Linked_List.py)| Iteration, Math |
 
 ---
 
