@@ -1,9 +1,5 @@
 # 🐍 LeetCode Python
 
-![LeetCode Stats](https://leetcode-stats-badge.vercel.app/?username=nidyedus&theme=dark)
-
----
-
 ## 📂 Çözüm Arşivi
 
 | Konu (Topic) | Zorluk | Çözüm Linki | Anahtar Kavramlar |
