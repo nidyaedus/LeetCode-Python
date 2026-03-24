@@ -1,4 +1,4 @@
-# 🐍 LeetCode Python
+# LeetCode Python
 
 ## 📂 Çözüm Arşivi
 
