@@ -1,6 +1,6 @@
 # LeetCode Python
 
-## 📂 Çözüm Arşivi
+## Çözüm Arşivi
 
 | Konu (Topic) | Zorluk | Çözüm Linki | Anahtar Kavramlar |
 | :--- | :---: | :--- | :--- |
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 - **Dil:** Python 3.x
 - **Analiz:** Big O Notation ($O(n)$, $O(log\ n)$ vb.)
 - **Ortam:** LeetCode & VS Code
